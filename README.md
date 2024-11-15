@@ -1,0 +1,2 @@
+# Spotsy
+RPGMaker MZ Game
