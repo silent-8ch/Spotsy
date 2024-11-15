@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"paul_battler","characterIndex":0,"characterName":"paul_walking","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"paul_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paul","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"William","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"wade_battler","characterIndex":0,"characterName":"wade_walker","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"wade_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wade","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"luna_battler","characterIndex":0,"characterName":"Luna_walker","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Luna_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luna","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"luke battler","characterIndex":0,"characterName":"luke walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Luke Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luke","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"krystal_battler","characterIndex":0,"characterName":"krystal_walking","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"krystal","traits":[],"initialLevel":1,"maxLevel":99,"name":"Krystal","nickname":"","note":"","profile":""}
+]
